@@ -6,8 +6,7 @@ title: Home
 
 This are the contents of the Hugo start website front page.
 
-## Something to read: Sonnet LXVI.
-
+## :)
 > *Druhá průmyslová revoluce začala v 2 polovině 19. století a trvala až do 20.
  století. Během ní je známe to, že se kladlo na propojení vědy a techniky, využívaly se nové materiály a
   nové výrobní postupy. Nejznámější byl například vynález žárovky nebo výbušných motorů.
