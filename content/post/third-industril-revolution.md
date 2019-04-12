@@ -1,5 +1,5 @@
 ---
-title: Třetí prumislová revoluce
+title: Třetí průmyslová revoluce
 date: 2019-04-12
 tags: 
     - beatles
