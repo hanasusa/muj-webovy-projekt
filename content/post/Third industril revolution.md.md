@@ -1,5 +1,4 @@
 ---
----
 title: Third industrial revolution.
 date: 2019-04-10
 tags: 
